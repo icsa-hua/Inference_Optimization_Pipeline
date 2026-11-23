@@ -109,3 +109,9 @@ Use `--preset cpu_portable` for CPU-only execution. Other presets include
 Validation of optimized output against representative samples is strongly recommended, especially for FP16 and INT8 variants.
 
 See [device_builder/README.md](device_builder/README.md) for pipeline details.
+
+## License
+
+This project's original source code is licensed under the
+[Apache License 2.0](LICENSE). Third-party dependencies, model weights, datasets,
+and trademarks remain subject to their respective terms.
