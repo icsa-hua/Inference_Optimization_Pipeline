@@ -16,3 +16,4 @@ benchmark_stable.py
 benchmark_v2.py
 install_tvm.txt
 run.py
+assets/edgeai_infpipeline_diagram_old.png
